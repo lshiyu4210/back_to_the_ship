@@ -1,0 +1,12 @@
+M
+2
+3
+// test file
+//level 0
+..E
+.#.
+..F
+//level 1
+..E
+..H
+...
